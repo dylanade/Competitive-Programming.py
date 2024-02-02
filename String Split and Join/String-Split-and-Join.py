@@ -4,3 +4,4 @@ def split_and_join(line):
     line = "-".join(line)
     return line
 
+#LINK: https://www.hackerrank.com/challenges/python-string-split-and-join/submissions/code/367721924
