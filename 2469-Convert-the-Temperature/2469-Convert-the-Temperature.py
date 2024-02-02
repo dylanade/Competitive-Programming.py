@@ -9,4 +9,4 @@ class Solution(object):
         return kelvin, fahrenheit
 
 
-# https://leetcode.com/problems/convert-the-temperature/submissions/1163187240
+#LINK: https://leetcode.com/problems/convert-the-temperature/submissions/1163187240
