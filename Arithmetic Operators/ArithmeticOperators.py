@@ -5,4 +5,4 @@ if __name__ == '__main__':
     print(a-b)
     print(a*b)
 
-##LINK: https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/367728956
+#LINK: https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/367728956
