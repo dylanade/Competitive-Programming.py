@@ -4,3 +4,5 @@ if __name__ == '__main__':
     
     print(a//b)
     print(a/b)
+
+#LINK: https://www.hackerrank.com/challenges/python-division/submissions/code/367711321
