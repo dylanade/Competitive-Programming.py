@@ -8,5 +8,4 @@ class Solution(object):
         fahrenheit = celsius * 1.80 + 32.00
         return kelvin, fahrenheit
 
-
 #LINK: https://leetcode.com/problems/convert-the-temperature/submissions/1163187240
