@@ -1,23 +1,6 @@
 class Solution:
     def sumOfThree(self, num: int) -> List[int]:
-        ''' O(n)
-        count = 0
-        ans = []
-        
-        for i in range(num):
-            ans.append(i)
-            
-            if count == 3 and sum(ans) != num:
-                count = 0
-                ans = []
-            elif count == 3 and sum(ans) == num:
-                return ans
-            
-            count += 1
-            
-        return ans
-        '''
-        
+
         #O(1)
         '''
             we are looking for (x) + (x+1) + (x+2) == num
