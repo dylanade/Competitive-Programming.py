@@ -1,13 +1,8 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        dictionary = dict()
-        
+        xor = 0
         for num in nums:
-            dictionary[num] = dictionary.get(num, 0) + 1
+            xor ^= num
         
-        for key in dictionary:
-            if (dictionary.get(key) == 1):
-                return key
-        
-        return -1
+        return xor
         
