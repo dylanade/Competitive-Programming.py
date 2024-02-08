@@ -18,7 +18,7 @@ class Solution:
             value = dictionary.get(key)
             if (len(value) == sum(value)):
                 win.append(key)
-            if (len(value)-1 == sum(value)):
+            elif (len(value)-1 == sum(value)):
                 loss.append(key)
                 
         win.sort()
