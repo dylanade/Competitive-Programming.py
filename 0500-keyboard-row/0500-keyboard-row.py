@@ -10,7 +10,7 @@ class Solution:
             if chars.issubset(firstRow) \
             or chars.issubset(secondRow) \
             or chars.issubset(thirdRow):
-                answer.append(''.join(word))
+                answer.append(word)
                 
         return answer
             
