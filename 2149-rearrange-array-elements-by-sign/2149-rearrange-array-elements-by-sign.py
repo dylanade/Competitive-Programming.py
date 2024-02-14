@@ -1,16 +1,10 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        positive = []
-        negative = []
+        positive = [num for num in nums if num > 0]
+        negative = [num for num in nums if num < 0]
         merged = []
         
-        for num in nums:
-            if (num < 0):
-                negative.append(num)
-            else:
-                positive.append(num)
-        
-        j,k = 0,0
+        j, k = 0, 0
         for i in range(len(nums)):
             if (i%2 == 0):
                 merged.append(positive[j])
