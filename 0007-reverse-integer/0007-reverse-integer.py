@@ -4,11 +4,12 @@ class Solution:
         str_x = str_x[::-1]
         rev_x = int(str_x)
         
-        if (rev_x < -2**(31) or rev_x > 2 ** (31) - 1):
-            return 0
+        if (x < 0):
+            if (-rev_x < -2**(31)):
+                return 0
+            return -rev_x
         else:
-            if (x < 0):
-                return -rev_x
-            else:
-                return rev_x
+            if (rev_x > 2**(31) - 1):
+                return 0
+            return rev_x
         
