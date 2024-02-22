@@ -39,10 +39,8 @@ class Solution:
                 if j != col-1:
                     curr_sum += img[i][j+1]
                     count += 1
-                    
-                avg = curr_sum // count
-                curr_sum = avg
-                ans[i][j] = avg
+
+                ans[i][j] = curr_sum // count
                 
         return ans
                 
