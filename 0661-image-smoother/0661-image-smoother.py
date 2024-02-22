@@ -8,14 +8,6 @@ class Solution:
             for j in range(n):
                 curr_sum, count = img[i][j], 1
                 
-                if j != 0:
-                    curr_sum += img[i][j-1]
-                    count += 1
-                    
-                if j != n-1:
-                    curr_sum += img[i][j+1]
-                    count += 1
-                    
                 if i != 0:
                     curr_sum += img[i-1][j]
                     count += 1
@@ -40,6 +32,13 @@ class Solution:
                         curr_sum += img[i+1][j+1]
                         count += 1
                         
+                if j != 0:
+                    curr_sum += img[i][j-1]
+                    count += 1
+                    
+                if j != n-1:
+                    curr_sum += img[i][j+1]
+                    count += 1
                     
                 avg = curr_sum // count
                 curr_sum = avg
