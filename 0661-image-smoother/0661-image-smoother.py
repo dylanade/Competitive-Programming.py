@@ -1,11 +1,11 @@
 class Solution:
     def imageSmoother(self, img: List[List[int]]) -> List[List[int]]:
         
-        rows, cols = len(img), len(img[0])
-        ans = [[0] * cols for _ in range(rows)]
+        row, col = len(img), len(img[0])
+        ans = [[0] * col for _ in range(row)]
         
-        for i in range(rows):
-            for j in range(cols):
+        for i in range(row):
+            for j in range(col):
                 curr_sum, count = img[i][j], 1
                 
                 if i != 0:
@@ -16,11 +16,11 @@ class Solution:
                         curr_sum += img[i-1][j-1]
                         count += 1
                         
-                    if j != cols-1:
+                    if j != col-1:
                         curr_sum += img[i-1][j+1]
                         count += 1
                     
-                if i != rows-1:
+                if i != row-1:
                     curr_sum += img[i+1][j]
                     count += 1
                     
@@ -28,7 +28,7 @@ class Solution:
                         curr_sum += img[i+1][j-1]
                         count += 1
                         
-                    if j != cols-1:
+                    if j != col-1:
                         curr_sum += img[i+1][j+1]
                         count += 1
                         
@@ -36,7 +36,7 @@ class Solution:
                     curr_sum += img[i][j-1]
                     count += 1
                     
-                if j != cols-1:
+                if j != col-1:
                     curr_sum += img[i][j+1]
                     count += 1
                     
