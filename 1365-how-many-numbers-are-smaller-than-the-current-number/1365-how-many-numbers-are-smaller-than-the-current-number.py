@@ -2,6 +2,7 @@ class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
         bucket = [0]*102
         
+        #Frequency of each number
         for i in range(len(nums)):
             bucket[nums[i]+1] += 1
 
