@@ -10,7 +10,6 @@ class Solution:
         i = 0
         min_time = float('-inf')
         for arr in subarr:
-            
             for j, task in enumerate(arr):
                 arr[j] = task + processorTime[i]
                 
