@@ -1,12 +1,13 @@
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
         ans = []
-        freq = {}
+        snums = set()
         
         for num in nums:
-            freq[num] = freq.get(num, 0) + 1
-            if freq.get(num) == 2:
+            if num not in snums:
+                snums.add(num)
+            else:
                 ans.append(num)
-                
+    
         return ans
             
