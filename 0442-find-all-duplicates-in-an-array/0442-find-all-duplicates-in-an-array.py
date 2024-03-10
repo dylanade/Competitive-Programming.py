@@ -8,6 +8,6 @@ class Solution:
                 snums.add(num)
             else:
                 ans.append(num)
-    
+   
         return ans
             
