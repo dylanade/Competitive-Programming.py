@@ -1,34 +1,34 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
-        num_to_idx = {}
-        vals = set()
-        answer=[]
+        n = len(nums)
+        mp = {}
+        check_twoSum = set() #check whether the indices were saved
+        answer = []
 
-        for a in range(len(nums)):
-            for b in range(a+1,len(nums)):
-                val = nums[a] + nums[b]
-                value_tuple = (nums[a], nums[b])
-                if value_tuple in vals:
+        for a in range(n):
+            for b in range(a+1, n):
+                twoSum = nums[a] + nums[b]
+                twoSum_tuple = (nums[a], nums[b])
+                
+                if twoSum_tuple in check_twoSum:
                     continue
                 else:
-                    vals.add(value_tuple)
-                    if val in num_to_idx:
-                        num_to_idx[val].append((a, b))
+                    check_twoSum.add(twoSum_tuple)
+                    if twoSum in mp:
+                        mp[twoSum].append((a, b))
                     else:
-                        num_to_idx[val] = [(a, b)]
+                        mp[twoSum] = [(a, b)]
 
         #print(num_to_idx)
 
-        for a in range(len(nums)):
-            for b in range(a+1, len(nums)):
+        for a in range(n):
+            for b in range(a+1, n):
                 diff = target - nums[a] - nums[b]
-                if diff in num_to_idx:
-                    for c, d in num_to_idx[diff]:
+                if diff in mp:
+                    for c, d in mp[diff]:
                         if a != c and a != d and b!=c and b!=d:
                             #print([nums[a], nums[b], nums[c], nums[d]])
-                            res = sorted([nums[a], nums[b], nums[c], nums[d]])
-                            if res not in answer:
-                                answer.append(res)
-
-
+                            result = sorted([nums[a], nums[b], nums[c], nums[d]])
+                            if result not in answer:
+                                answer.append(result)
         return answer
