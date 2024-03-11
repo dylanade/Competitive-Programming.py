@@ -6,11 +6,11 @@ class Solution(object):
         """
 
         countGoodPairs = 0
-        length = len(nums)
+        n = len(nums)
 
-        for i in range(0, length):
-            for j in range(0, length):
-                if (nums[i] == nums[j] and i < j):
+        for i in range(n):
+            for j in range(i+1, n):
+                if nums[i] == nums[j]:
                     countGoodPairs += 1
                     
         return countGoodPairs
