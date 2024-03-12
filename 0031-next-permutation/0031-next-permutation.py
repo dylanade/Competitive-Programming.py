@@ -5,7 +5,7 @@ class Solution:
         """
         n = len(nums)
         
-        # find rightmost position i such that L[i] < L[i+1]
+        # find rightmost position i such that nums[i] < nums[i+1]
         i = n-2
         while i>=0 and nums[i]>=nums[i+1]:
             i -= 1
@@ -14,7 +14,7 @@ class Solution:
             nums.reverse()
             return
         
-        # find rightmost position j to the right of i such that L[j] > L[i]
+        # find rightmost position j to the right of i such that nums[j] > nums[i]
         j = i+1
         while j<n and nums[j]>nums[i]:
             j+=1
@@ -26,7 +26,6 @@ class Solution:
         # reverse everything to the right of i
         l = i + 1
         r = n - 1
- 
         while l < r:
             nums[l], nums[r] = nums[r], nums[l]
             l += 1
