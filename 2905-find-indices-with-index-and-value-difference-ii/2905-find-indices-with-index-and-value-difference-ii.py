@@ -3,10 +3,8 @@ class Solution:
         if iD >= len(nums):
             return [-1, -1]
         
-        minV = float('inf')
-        maxV = float('-inf')
-        minI = 0
-        maxI = 0
+        minV, maxV = float('inf'), float('-inf')
+        minI, maxI = 0, 0
         i = len(nums) - iD - 1
         j = len(nums) - 1
         
