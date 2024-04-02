@@ -25,12 +25,14 @@ class Solution:
             for j in range(n-1, -1, -1):
                 left.append((left[-1] * grid[i][j]) % mod)
         left.reverse()
+        del left[0]
+        del right[-1]
                 
         output = [[1]*n for _ in range(m)]
         k = 0
         for i in range(m):
             for j in range(n):
-                output[i][j] = (right[k] * left[k+1]) % mod
+                output[i][j] = (right[k] * left[k]) % mod
                 k += 1
                 
         return output
