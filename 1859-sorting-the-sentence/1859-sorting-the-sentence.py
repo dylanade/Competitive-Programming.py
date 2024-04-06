@@ -4,9 +4,8 @@ class Solution:
         string = [' '] * len(words)
         for word in words:
             index = ''
-            i = 1
-            while word[-i].isdigit():
-                index += word[-i]
+            while word[-1].isdigit():
+                index += word[-1]
                 word = word[:len(word)-1]
             index = index[::-1]
             string[int(index)-1] = word
