@@ -17,5 +17,3 @@ class Solution:
                 b = c
                 c = max(nums)
                 nums.remove(c)
-        
-        
