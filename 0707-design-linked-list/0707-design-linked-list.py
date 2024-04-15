@@ -32,7 +32,7 @@ class MyLinkedList:
         if index < 0 or index >= self.size: return
         current = self.head
         for _ in range(index): current = current.next
-        current.next = current.next.next
+        current.next = (current.next).next
         self.size -= 1  
 
 
