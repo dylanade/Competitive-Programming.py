@@ -23,8 +23,6 @@ class Solution:
             current.next = None
             current = temp
 
-        print(l1)
-        print(l2)
         list1.next = l2.next
         return l1.next
         
