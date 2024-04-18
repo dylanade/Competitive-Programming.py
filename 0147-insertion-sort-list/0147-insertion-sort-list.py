@@ -17,25 +17,38 @@
 
 class Solution:
     def insertionSortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        dummy = ListNode(0,head)
-        prev = head
-        curr = head.next
+#         dummy = ListNode(0,head)
+#         prev = head
+#         curr = head.next
         
+#         while curr:
+#             if curr.val >= prev.val:
+#                 prev = curr
+#                 curr = curr.next
+#                 continue
+
+#             temp = dummy
+#             while curr.val > temp.next.val:
+#                 temp = temp.next
+
+#             prev.next = curr.next
+#             curr.next = temp.next
+#             temp.next = curr
+#             curr = prev.next
+
+#         return dummy.next
+
+        dummy = ListNode()
+        curr = head
         while curr:
-            if curr.val >= prev.val:
-                prev = curr
-                curr = curr.next
-                continue
-
-            temp = dummy
-            while curr.val > temp.next.val:
-                temp = temp.next
-
-            prev.next = curr.next
-            curr.next = temp.next
-            temp.next = curr
-            curr = prev.next
-
+            prev = dummy
+            while prev.next and prev.next.val <= curr.val:
+                prev = prev.next
+            temp = curr.next
+            curr.next = prev.next
+            prev.next = curr
+            curr = temp
+            
         return dummy.next
         
         
