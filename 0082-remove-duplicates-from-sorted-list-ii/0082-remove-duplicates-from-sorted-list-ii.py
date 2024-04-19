@@ -11,7 +11,6 @@ class Solution:
         while head:
             count[head.val] += 1
             head = head.next
-            
         
         head = None
         prev = None
