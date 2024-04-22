@@ -1,16 +1,17 @@
 class Solution:
     def minOperations(self, logs: List[str]) -> int:
         stack = []
+        commands = ['./', '../']
         
         for log in logs:
-            if log not in ['./', '../']:
-                stack.append(log)
-            elif log in ['./', '../']:
+            if log in commands:
                 if log == './':
                     continue
-                if log == '../' and stack:
+                elif log == '../' and stack:
                     stack.pop()
                 else:
                     continue
+            else:
+                stack.append(log)
 
         return len(stack)
