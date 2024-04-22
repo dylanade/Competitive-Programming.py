@@ -2,13 +2,12 @@ class LRUCache:
     def __init__(self, capacity: int):
         self.capacity = capacity
         self.cache = {}
-        self.stack = []
 
     def get(self, key: int) -> int:
         if key in self.cache:
-            LRU_value = self.cache[key]
+            used_value = self.cache[key]
             del self.cache[key]
-            self.cache[key] = LRU_value
+            self.cache[key] = used_value
         return self.cache.get(key, -1)
 
     def put(self, key: int, value: int) -> None:
