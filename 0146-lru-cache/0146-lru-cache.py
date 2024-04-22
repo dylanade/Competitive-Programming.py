@@ -19,6 +19,7 @@ class LRUCache:
             if len(self.cache) >= self.capacity:
                 del self.cache[list(self.cache.keys())[0]]
             self.cache[key] = value
+    
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
 # param_1 = obj.get(key)
