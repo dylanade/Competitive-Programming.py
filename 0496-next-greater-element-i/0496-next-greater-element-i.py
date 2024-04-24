@@ -1,24 +1,22 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        ans = []
+        # stack = []
+        # for i in range(len(a)):
+        ## > monotonic increasing stack
+        ## < monotonic decreasing stack
+        #     while stack and stack[-1] > a[i]:
+        #         stack.pop()
+        #     stack.append(a[i])
+        # print(stack)
         
-        for num in nums1:
-            index_num = nums2.index(num)
-            RHS_list = nums2[index_num:]
-            RHS_list = [RHS_num for RHS_num in RHS_list if RHS_num > num]
-            
-            if len(RHS_list) != 0:
-                ans.append(RHS_list[0])
-            else:
-                ans.append(-1)
-                
-        return ans
-            
-            
-            
-            
-            
-            
-            
         
+        mp = {num : -1 for num in nums1}
+        stack = []
+        for num in nums2:
+            while stack and num > stack[-1]:
+                top = stack.pop()
+                if top in mp:
+                    mp[top] = num
+            stack.append(num)
+        return list(mp.values())
         
