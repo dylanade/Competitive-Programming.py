@@ -6,13 +6,8 @@ class Solution:
         #     window_sum = max(sum(nums[i-k:i]), window_sum) 
         # return window_sum / k
         
-        window_sum = sum(nums[:k])
-        max_avg = window_sum / k
-        
+        max_avg = window_sum = sum(nums[:k])
         for i in range(k, len(nums)):
-            window_sum += nums[i] - nums[i-k]
-            max_avg = max(max_avg, window_sum / k)
-            
-        return max_avg
-        
-        
+            window_sum += nums[i]-nums[i-k]
+            max_avg = max(max_avg, window_sum)    
+        return max_avg/k        
