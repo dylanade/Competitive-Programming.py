@@ -1,26 +1,28 @@
 class Solution:
     def longestSubarray(self, nums: List[int], k: int) -> int:
-        min_deque = deque()
-        max_deque = deque()
+        max_queue = deque()  # store maximum values
+        min_queue = deque()  # store minimum values
         l = 0
-        max_len = 0
-        
-        for r in range(len(nums)):
-            while min_deque and nums[r] <= nums[min_deque[-1]]:
-                min_deque.pop()
-            while max_deque and nums[r] >= nums[max_deque[-1]]:
-                max_deque.pop()
-                
-            min_deque.append(r)
-            max_deque.append(r)
-            
-            while abs(nums[max_deque[0]]-nums[min_deque[0]]) > k:
-                if min_deque[0] == l:
-                    min_deque.popleft()
-                if max_deque[0] == l:
-                    max_deque.popleft()
+
+        for num in nums:
+            # Maintain the max_queue in decreasing order of elements
+            while max_queue and num > max_queue[-1]:
+                max_queue.pop()
+            max_queue.append(num)
+
+            # Maintain the min_queue in increasing order of elements
+            while min_queue and num < min_queue[-1]:
+                min_queue.pop()
+            min_queue.append(num)
+
+            # If the absolute difference between the maximum and minimum elements
+            # in the current window exceeds the limit, remove one element
+            # from either or both queues and increment the left pointer
+            if max_queue[0] - min_queue[0] > k:
+                if max_queue[0] == nums[l]:
+                    max_queue.popleft()
+                if min_queue[0] == nums[l]:
+                    min_queue.popleft()
                 l += 1
-                
-            max_len = max(max_len, r-l+1)
-            
-        return max_len
+
+        return len(nums) - l 
