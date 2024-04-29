@@ -1,20 +1,7 @@
-class Solution(object):
-    def findTheDifference(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: str
-        """
-        value = 0
-        
-        #getting the ASCII value using ord() for each character in the list s
-        for char in s:
-            value ^= ord(char)
-        
-        #using bitwise XOR function to get odd character
-        for char in t:
-            value ^= ord(char)
-            
-        #convert value into char
-        return chr(value)
-        
+from collections import Counter
+class Solution:
+    def findTheDifference(self, s: str, t: str) -> str:
+        c = Counter(s)
+        for key, a in Counter(t).items():
+            if a > c[key]:
+                return key
