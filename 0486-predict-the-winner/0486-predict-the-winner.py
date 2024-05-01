@@ -1,11 +1,9 @@
 class Solution:
-    def predict(self, nums, start, end, turn):
-            if start == end:
-                return turn*nums[start]
-            p1 = turn * nums[start] + self.predict(nums, start+1, end, -turn)
-            p2 = turn * nums[end] + self.predict(nums, start, end-1, -turn)
-            return turn*max(turn*p1, turn*p2)
-
-    def predictTheWinner(self, nums: List[int]) -> bool:
-        return self.predict(nums,0,len(nums)-1,1) >= 0
-
+    def predictTheWinner(self, nums: list[int]) -> bool:
+        def score(i: int, j: int) -> int:
+            return (i <= j) and max(
+                nums[i] - score(i + 1, j),
+                nums[j] - score(i, j - 1),
+            )
+        
+        return len(nums) % 2 == 0 or score(0, len(nums) - 1) >= 0
