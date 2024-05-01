@@ -1,5 +1,6 @@
 class Solution:
     def predictTheWinner(self, nums: list[int]) -> bool:
+        @cache
         def score(i: int, j: int) -> int:
             return (i <= j) and max(
                 nums[i] - score(i + 1, j),
