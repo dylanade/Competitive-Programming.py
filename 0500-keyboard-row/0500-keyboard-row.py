@@ -3,9 +3,9 @@ class Solution:
         first_row = "qwertyuiop"
         second_row = "asdfghjkl"
         third_row = "zxcvbnm"
-        answer =[]
-        
+        answer = []
         row = ""
+        
         for word in words:
             if word[0].lower() in first_row:
                 row = first_row
