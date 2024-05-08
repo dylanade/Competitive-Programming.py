@@ -8,4 +8,3 @@ class Solution:
             mapping[nums[i]] = i
             
         return []
-        
