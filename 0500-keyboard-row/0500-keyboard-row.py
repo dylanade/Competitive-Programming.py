@@ -3,27 +3,20 @@ class Solution:
         first_row = "qwertyuiop"
         second_row = "asdfghjkl"
         third_row = "zxcvbnm"
-        answer = []
+        answer =[]
+        
+        row = ""
         for word in words:
-            char_word = list(set(word.lower()))
-            count = 0
-            if char_word[0] in first_row:
-                for c in char_word:
-                    if c in first_row:
-                        count += 1
-                if count == len(char_word):
-                    answer.append(word)
-            elif char_word[0] in second_row:
-                for c in char_word:
-                    if c in second_row:
-                        count += 1
-                if count == len(char_word):
-                    answer.append(word)
-            elif char_word[0] in third_row:
-                for c in char_word:
-                    if c in third_row:
-                        count += 1
-                if count == len(char_word):
-                    answer.append(word)
-                        
+            if word[0].lower() in first_row:
+                row = first_row
+            elif word[0].lower() in second_row:
+                row = second_row
+            else:
+                row = third_row
+            answer.append(word)
+            for c in word: 
+                if c.lower() not in row:
+                    answer.pop(-1)
+                    break
+                    
         return answer
