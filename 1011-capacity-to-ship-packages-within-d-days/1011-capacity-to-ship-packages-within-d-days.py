@@ -1,6 +1,6 @@
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
-        def function(k):
+        def get_sum(k):
             total, running_sum = 0, 0 
             for i in weights:
                 if running_sum + i <= k:
@@ -15,7 +15,7 @@ class Solution:
 
         while low <= high:
             mid = (low+high)//2
-            if function(mid) > days:
+            if get_sum(mid) > days:
                 low = mid+1 
             else:
                 high = mid-1 
