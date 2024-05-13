@@ -1,9 +1,9 @@
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
-        def get_sum(k):
-            total, running_sum = 0, 0 
+        def get_sum(current):
+            total, running_sum = 0, 0
             for i in weights:
-                if running_sum + i <= k:
+                if running_sum + i <= current:
                     running_sum += i  
                 else:
                     total += 1  
