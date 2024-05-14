@@ -19,18 +19,17 @@ class TopVotedCandidate:
             
     def q(self, t: int) -> int:
         l, r = 0, len(self.times)-1
-        relative_t = 0
-        top_vote = self.leading_votes[0]
+        leading_vote = self.leading_votes[0]
+        
         while l <= r:
             mid = (l+r)//2
             if self.times[mid] <= t:
-                relative_t = self.times[mid]
-                top_vote = self.leading_votes[mid]
+                leading_vote = self.leading_votes[mid]
                 l = mid+1
             else:
                 r = mid-1
 
-        return top_vote
+        return leading_vote
             
 # Your TopVotedCandidate object will be instantiated and called as such:
 # obj = TopVotedCandidate(persons, times)
