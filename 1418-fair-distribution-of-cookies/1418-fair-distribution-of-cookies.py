@@ -2,18 +2,18 @@ class Solution:
     def distributeCookies(self, cookies: List[int], k: int) -> int:
         unfairness = float("inf") # minimum unfairness
         distribution = [0] * k # distribution between k children
-        # Time: O(k^n) -> Braches ^ Depth
+        # Time: O(k^n) -> Branches ^ Depth
         # Space: O(n + k)
         # n is independent of k
 
         def backtrack(i): # init to start from first child
             nonlocal unfairness
-
             # base cases
             if i == len(cookies):
                 unfairness = min(unfairness, max(distribution))
                 return
             
+            # pruning cases
             if unfairness <= max(distribution):
                 return
 
