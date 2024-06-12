@@ -4,7 +4,7 @@ class Solution:
 
         for num in nums:
             if num < pivot: less_than.append(num)
-            if num > pivot: greater_than.append(num)
-            if num == pivot: equal_to.append(num)
+            elif num > pivot: greater_than.append(num)
+            else: equal_to.append(num)
 
         return less_than + equal_to + greater_than
