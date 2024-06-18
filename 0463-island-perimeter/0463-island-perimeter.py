@@ -14,9 +14,9 @@ class Solution:
 
             visit.add((i, j))
             perimeter = dfs(i, j + 1) # move right
-            perimeter += dfs(i, j - 1)
-            perimeter += dfs(i + 1, j)
-            perimeter += dfs(i - 1, j)
+            perimeter += dfs(i, j - 1) # move left
+            perimeter += dfs(i + 1, j) # move up
+            perimeter += dfs(i - 1, j) # move down
             return perimeter
 
         for i in range(len(grid)):
