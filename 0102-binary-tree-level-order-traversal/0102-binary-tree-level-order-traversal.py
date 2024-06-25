@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        #DFS
+        #BFS
         ans = []
         if not root:
             return ans
