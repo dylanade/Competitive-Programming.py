@@ -1,20 +1,22 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
-        i, j = 0, 0
-        
-        compression = []
-        
-        while j < len(chars):
-            while j < len(chars) and chars[i] == chars[j]:
-                j += 1
+        answer = 0
+        i = 0
+
+        while i < len(chars):
+            letter = chars[i]
+            count = 0
             
-            compression.append(chars[i])
-            if i+1 != j:
-                for digit in str(j-i):
-                    compression.append(digit)
+            while i < len(chars) and chars[i] == letter:
+                count += 1
+                i += 1
                 
-            i = j
+            chars[answer] = letter
+            answer += 1
             
-        chars[:] = compression
-        return len(compression)
-        
+            if count > 1:
+                for c in str(count):
+                    chars[answer] = c
+                    answer += 1
+
+        return answer
