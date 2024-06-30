@@ -27,12 +27,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
+| [1512-design-underground-system](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1512-design-underground-system) |
 ## String
 |  |
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
+| [1512-design-underground-system](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1512-design-underground-system) |
 ## Counting
 |  |
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
+## Design
+|  |
+| ------- |
+| [1512-design-underground-system](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1512-design-underground-system) |
 <!---LeetCode Topics End-->
