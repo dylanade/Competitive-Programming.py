@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 ## Dynamic Programming
@@ -54,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
