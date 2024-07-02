@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Graph
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
 |  |
 | ------- |
