@@ -7,25 +7,23 @@
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
         answer = 0
+        lookup = collections.defaultdict(int)
+        lookup[targetSum] = 1
 
-        def helper(node, curr):
-            nonlocal answer
-            
+        def dfs(node, root_sum):
+            nonlocal answer, lookup
+
             if not node:
                 return
-            helper(node.left, curr + node.val)
-            helper(node.right, curr + node.val)
-            if curr + node.val == targetSum:
-                answer += 1
 
-        def dfs(node):
-            if not node:
-                return
-            helper(node, 0)
-            dfs(node.left)
-            dfs(node.right)
+            root_sum += node.val
+            answer += lookup[root_sum]
+            lookup[root_sum + targetSum] += 1
 
-        dfs(root)
+            dfs(node.left, root_sum)
+            dfs(node.right, root_sum)
+
+            lookup[root_sum + targetSum] -= 1
+
+        dfs(root, 0)
         return answer
-
-        
