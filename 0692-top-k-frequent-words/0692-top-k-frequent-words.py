@@ -1,22 +1,14 @@
 class Solution:
     def topKFrequent(self, words: List[str], k: int) -> List[str]:
-        freq = collections.defaultdict(list)
+        # Step 1: Count the frequency of each word
+        count = Counter(words)
 
-        for word in words:
-            count = words.count(word)
-            if word not in freq[count]:
-                freq[count].append(word)
-
-        answer = []
-        for frequency in sorted(freq, reverse=True):
-            for word in sorted(freq[frequency]):
-                if k:
-                    answer.append(word)
-                    k -= 1
-                else:
-                    return answer
-
-        return answer
-
-
+        # Step 2: Use a heap to keep track of the top k elements
+        heap = []
+        for word, freq in count.items():
+            heapq.heappush(heap, (-freq, word))
         
+        # Step 3: Extract the top k elements from the heap
+        result = [heapq.heappop(heap)[1] for _ in range(k)]
+        
+        return result
