@@ -13,6 +13,8 @@ class Solution:
                 if k:
                     answer.append(word)
                     k -= 1
+                else:
+                    return answer
 
         return answer
 
