@@ -27,4 +27,5 @@ class Solution:
             else:           #right half
                 l = mid + 1
                 current = 0 if current else 1
+                
         return current
