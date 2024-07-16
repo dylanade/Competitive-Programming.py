@@ -11,7 +11,7 @@ class Solution:
             return [target.val]
 
         graph = collections.defaultdict(list)
-        
+
         queue = collections.deque()
         queue.append((root))
 
@@ -48,9 +48,4 @@ class Solution:
                     visited.add(neighbour)
 
         return answer
-            
-
-
-        
-
         
