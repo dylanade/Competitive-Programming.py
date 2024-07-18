@@ -1,20 +1,18 @@
 class Solution:
     def twoCitySchedCost(self, costs: List[List[int]]) -> int:
-        differences = []
+        n = len(costs)
 
-        for cost in costs:
-            a, b = cost
-            differences.append((a-b, a, b)) # city[0], city[1], city[2]
+        differences = []
+        for i in range(n):
+            a, b = costs[i]
+            differences.append((a-b, a, b)) # difference, aCost, bCost
 
         differences.sort()
-        n = len(costs)
         total = 0
 
-        # process a in first half 
         for i in range(n // 2):
             total += differences[i][1]
 
-        # process b in second half 
         for i in range(n // 2, n):
             total += differences[i][2]
 
