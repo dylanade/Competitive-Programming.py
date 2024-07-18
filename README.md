@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1762-furthest-building-you-can-reach](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1762-furthest-building-you-can-reach) |
 | [1814-jump-game-vi](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1814-jump-game-vi) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0055-jump-game) |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
+| [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
 | [1814-jump-game-vi](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1814-jump-game-vi) |
 ## Matrix
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
