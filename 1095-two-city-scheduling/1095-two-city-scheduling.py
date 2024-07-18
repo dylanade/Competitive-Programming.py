@@ -6,7 +6,7 @@ class Solution:
             a, b = cost
             differences.append((a-b, a, b)) # city[0], city[1], city[2]
 
-        differences = sorted(differences)
+        differences.sort()
         n = len(costs)
         total = 0
 
