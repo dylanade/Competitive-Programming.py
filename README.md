@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
