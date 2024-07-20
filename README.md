@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0215-kth-largest-element-in-an-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0049-group-anagrams) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1512-design-underground-system](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1512-design-underground-system) |
 ## Tree
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
 | [0795-k-th-symbol-in-grammar](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0795-k-th-symbol-in-grammar) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Recursion
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
