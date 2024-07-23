@@ -19,10 +19,13 @@ class Solution:
                     k -= 1
                 else:
                     answer.append([nums[i], nums[j], nums[k]])
+
                     while j < k and nums[j+1] == nums[j]:
                         j += 1
                     j += 1
+
                     while k > j and nums[k-1] == nums[k]:
                         k -= 1
                     k -= 1
+                    
         return answer
