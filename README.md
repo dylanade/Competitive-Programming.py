@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1095-two-city-scheduling) |
 | [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
 | [1762-furthest-building-you-can-reach](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1762-furthest-building-you-can-reach) |
 | [1814-jump-game-vi](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1814-jump-game-vi) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1512-design-underground-system](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1512-design-underground-system) |
+| [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -222,8 +224,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
+## Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
