@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
+| [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
+| [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [1512-design-underground-system](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1512-design-underground-system) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 ## Design
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
 | [1095-two-city-scheduling](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1095-two-city-scheduling) |
 | [1762-furthest-building-you-can-reach](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1762-furthest-building-you-can-reach) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1095-two-city-scheduling](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1095-two-city-scheduling) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1762-furthest-building-you-can-reach](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1762-furthest-building-you-can-reach) |
 | [1814-jump-game-vi](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1814-jump-game-vi) |
