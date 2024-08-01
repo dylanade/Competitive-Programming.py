@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0055-jump-game) |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
 ## Simulation
 |  |
