@@ -13,5 +13,3 @@ class Solution:
 
         addParenthesis('(', 1, 0)
         return answers  
-                
-        
