@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0881-loud-and-rich) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0945-snakes-and-ladders) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1095-two-city-scheduling](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1095-two-city-scheduling) |
 | [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1275-validate-binary-tree-nodes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1275-validate-binary-tree-nodes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1275-validate-binary-tree-nodes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1275-validate-binary-tree-nodes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -310,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0881-loud-and-rich) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
