@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0881-loud-and-rich) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1275-validate-binary-tree-nodes) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
+| [0881-loud-and-rich](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0881-loud-and-rich) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0945-snakes-and-ladders) |
 | [1095-two-city-scheduling](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1095-two-city-scheduling) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
 | [0820-find-eventual-safe-states](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -306,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
