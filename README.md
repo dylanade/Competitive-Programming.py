@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
 | [1095-two-city-scheduling](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1095-two-city-scheduling) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1762-furthest-building-you-can-reach](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1762-furthest-building-you-can-reach) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
 | [0795-k-th-symbol-in-grammar](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0795-k-th-symbol-in-grammar) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Recursion
