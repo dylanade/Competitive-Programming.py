@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0134-gas-station) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
