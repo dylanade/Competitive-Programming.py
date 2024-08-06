@@ -1,15 +1,11 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        a, b, r = 1, 2, 0
-        
-        if (n == 1):
-            return 1
-        elif (n == 2):
-            return 2
-        else:
-            for i in range(3, n + 1):
-                r = a + b
-                a = b
-                b = r
-                
-        return r
+        save = {}
+        def climb(n):
+            if n == 0 or n == 1:
+                return 1
+            if n not in save:
+                save[n] = climb(n-1) + climb(n-2)
+            return save[n]
+
+        return climb(n)
