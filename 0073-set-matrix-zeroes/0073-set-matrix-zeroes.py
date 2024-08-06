@@ -13,11 +13,9 @@ class Solution:
                     rows.add(r)
                     columns.add(c)
 
-        for r in range(ROWS):
-            if r in rows:
-                matrix[r] = [0] * COLS
-            
         for c in range(COLS):
             if c in columns:
                 for r in range(ROWS):
                     matrix[r][c] = 0
+                    if r in rows:
+                        matrix[r] = [0] * COLS
