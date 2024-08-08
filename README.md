@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0210-course-schedule-ii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0417-pacific-atlantic-water-flow) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
