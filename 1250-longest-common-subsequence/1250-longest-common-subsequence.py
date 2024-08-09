@@ -1,15 +1,13 @@
 class Solution:
     def longestCommonSubsequence(self, X: str, Y: str) -> int:
-        # TABLE
+        M, N = len(X), len(Y)
 
-        m, n = len(X), len(Y)
-
-        # TABLE DP - MEMOIZATION
-        dp = [[-1] * (n + 1) for _ in range(m + 1)]
+        # TABLE DP - MEMOISATION
+        dp = [[-1] * (N + 1) for _ in range(M + 1)]
 
         def LCS(m, n):
-            # base cases
-            if m == 0 or n == 0:
+            # BASE CASES
+            if m == M or n == N:
                 return 0
 
             # return prev calculated answer
@@ -18,17 +16,14 @@ class Solution:
 
             # RECURRENCE RELATION
 
-            # if a char in X == char in Y
-            if X[m - 1] == Y[n - 1]:
-                dp[m][n] = 1 + LCS(m - 1, n - 1)
+            # if a char in str1 == char in str2
+            if X[m] == Y[n]:
+                dp[m][n] = 1 + LCS(m + 1, n + 1)
 
-            # otherwise
+            # otherwise, 
             else:
-                dp[m][n] = max(LCS(m - 1, n), LCS(m, n - 1))
+                dp[m][n] = max(LCS(m + 1, n), LCS(m, n + 1))
 
             return dp[m][n]
 
-        return LCS(m, n)
-
-
-            
+        return LCS(0, 0)
