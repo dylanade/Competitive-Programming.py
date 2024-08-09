@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1095-two-city-scheduling](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1095-two-city-scheduling) |
 | [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
 | [1762-furthest-building-you-can-reach](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1762-furthest-building-you-can-reach) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
 | [1236-n-th-tribonacci-number](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1236-n-th-tribonacci-number) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1814-jump-game-vi](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1814-jump-game-vi) |
 ## Matrix
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1512-design-underground-system](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1512-design-underground-system) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3141-minimum-size-subarray-in-infinite-array) |
