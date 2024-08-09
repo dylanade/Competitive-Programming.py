@@ -16,23 +16,23 @@ class Solution:
 
         @lru_cache(None)
         def dp(i):
-            # Check if the next element in the sequence exists
+            # check if the next element in the sequence exists
             next_val = arr[i] + difference
             if next_val in value_to_index:
-                # Find the index of next_val that is greater than i
+                # find the index of next_val that is greater than i
                 for j in value_to_index[next_val]:
                     if j > i:
                         return 1 + dp(j)
             return 1
 
-        # Dictionary to store indices of each value
+        # dictionary to store indices of each value
         value_to_index = {}
         for i, v in enumerate(arr):
             if v not in value_to_index:
                 value_to_index[v] = []
             value_to_index[v].append(i)
 
-        # Compute the longest subsequence
+        # compute the longest subsequence
         max_length = 0
         for i in range(len(arr)):
             max_length = max(max_length, dp(i))
