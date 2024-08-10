@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1275-validate-binary-tree-nodes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1275-validate-binary-tree-nodes) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1275-validate-binary-tree-nodes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1275-validate-binary-tree-nodes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1275-validate-binary-tree-nodes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1275-validate-binary-tree-nodes) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Two Pointers
 |  |
