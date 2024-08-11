@@ -1,7 +1,7 @@
-from collections import Counter
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        c = Counter(s)
-        for key, a in Counter(t).items():
-            if a > c[key]:
-                return key
+        sc = collections.Counter(s)
+        tc = collections.Counter(t)
+        for char, freq in tc.items():
+            if freq > sc[char]:
+                return char
