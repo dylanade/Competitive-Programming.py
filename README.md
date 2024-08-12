@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
 | [1762-furthest-building-you-can-reach](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1762-furthest-building-you-can-reach) |
+| [1783-ways-to-make-a-fair-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1783-ways-to-make-a-fair-array) |
 | [1814-jump-game-vi](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1814-jump-game-vi) |
 | [1876-map-of-highest-peak](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1242-matrix-block-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1242-matrix-block-sum) |
+| [1783-ways-to-make-a-fair-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1783-ways-to-make-a-fair-array) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Memoization
 |  |
