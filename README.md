@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1095-two-city-scheduling](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1095-two-city-scheduling) |
 | [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
+| [1242-matrix-block-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1242-matrix-block-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0945-snakes-and-ladders) |
 | [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
+| [1242-matrix-block-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1242-matrix-block-sum) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1242-matrix-block-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1242-matrix-block-sum) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Memoization
 |  |
