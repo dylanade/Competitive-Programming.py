@@ -5,10 +5,10 @@ class Solution:
 
         prv = 0
         nxt = 1
-        ans = 0
+        
         for i in range(2, n + 1):
-            ans = prv + nxt
-            prv = nxt
-            nxt = ans
+            nxt = prv + nxt
+            prv = nxt - prv
+ 
 
-        return ans
+        return nxt
