@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0300-longest-increasing-subsequence) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0417-pacific-atlantic-water-flow) |
