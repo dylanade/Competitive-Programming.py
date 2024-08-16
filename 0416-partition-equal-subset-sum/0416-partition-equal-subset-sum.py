@@ -13,7 +13,7 @@ class Solution:
         dp[0] = True  
 
         for num in nums:
-            for curr in range(target, num-1, -1):  # avoid going out-of-bounds
+            for curr in range(target, num-1, -1): 
                 if dp[curr-num]:
                     dp[curr] = True
 
