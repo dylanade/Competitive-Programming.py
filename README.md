@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
 | [0389-find-the-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0389-find-the-difference) |
+| [0686-repeated-string-match](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
@@ -408,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
