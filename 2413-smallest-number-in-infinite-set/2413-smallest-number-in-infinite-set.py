@@ -5,9 +5,9 @@ class SmallestInfiniteSet:
 
     def popSmallest(self):
         if self.s:
-            res = min(self.s)
-            self.s.remove(res)
-            return res
+            smallest = min(self.s)
+            self.s.discard(smallest)
+            return smallest
         else:
             self.cur += 1
             return self.cur - 1
