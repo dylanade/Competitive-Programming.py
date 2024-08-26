@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1275-validate-binary-tree-nodes) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2455-node-with-highest-edge-score](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2455-node-with-highest-edge-score) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Array
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1512-design-underground-system](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1512-design-underground-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2413-smallest-number-in-infinite-set) |
+| [2455-node-with-highest-edge-score](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2455-node-with-highest-edge-score) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## String
