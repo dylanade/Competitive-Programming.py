@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0518-coin-change-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0389-find-the-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0795-k-th-symbol-in-grammar) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0895-shortest-path-to-get-all-keys) |
