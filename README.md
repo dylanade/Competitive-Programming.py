@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [0881-loud-and-rich](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0881-loud-and-rich) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
 | [0389-find-the-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0389-find-the-difference) |
+| [0648-replace-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
