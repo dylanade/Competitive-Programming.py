@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0693-binary-number-with-alternating-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0795-k-th-symbol-in-grammar) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0895-shortest-path-to-get-all-keys) |
 ## Union Find
