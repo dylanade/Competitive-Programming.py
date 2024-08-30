@@ -5,20 +5,23 @@ class Solution:
         # query_glass - 0-indexed
 
         # TREE 
+        # store each level as an array
 
         # take half of parent for each child
 
         prev_row = [poured] # 1, 2, 3 ... , n
 
-        # store each level as an array
-
         for row in range(1, query_row + 1):
             cur_row = [0] * (row + 1)
+
             for i in range(row):
-                extra = prev_row[i] - 1
-                if extra > 0:
-                    cur_row[i] += 0.5 * extra
-                    cur_row[i + 1] += 0.5 * extra
+                excess = prev_row[i] - 1
+                poured_over = 0.5 * excess
+
+                if excess > 0:
+                    cur_row[i] += poured_over
+                    cur_row[i + 1] += poured_over
+
             prev_row = cur_row
 
         return min(1, prev_row[query_glass])
