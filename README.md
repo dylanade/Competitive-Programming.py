@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0300-longest-increasing-subsequence) |
+| [0318-maximum-product-of-word-lengths](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0179-largest-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0389-find-the-difference) |
 | [0648-replace-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0686-repeated-string-match) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0461-hamming-distance) |
