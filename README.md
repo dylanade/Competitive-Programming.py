@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0024-swap-nodes-in-pairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1013-fibonacci-number) |
 ## Trie
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0024-swap-nodes-in-pairs) |
 | [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
