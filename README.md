@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1762-furthest-building-you-can-reach) |
 | [1814-jump-game-vi](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1814-jump-game-vi) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Quickselect
 |  |
 | ------- |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0054-spiral-matrix) |
 | [0983-validate-stack-sequences](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0983-validate-stack-sequences) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Topological Sort
 |  |
 | ------- |
