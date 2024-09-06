@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0205-isomorphic-strings) |
+| [0273-integer-to-english-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0273-integer-to-english-words) |
 | [0318-maximum-product-of-word-lengths](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0389-find-the-difference) |
 | [0648-replace-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0648-replace-words) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0070-climbing-stairs) |
+| [0273-integer-to-english-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
 | [0795-k-th-symbol-in-grammar](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1013-fibonacci-number) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0024-swap-nodes-in-pairs) |
+| [0273-integer-to-english-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0273-integer-to-english-words) |
 | [0795-k-th-symbol-in-grammar](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1013-fibonacci-number) |
 ## Trie
