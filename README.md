@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0684-redundant-connection) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0871-keys-and-rooms) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0881-loud-and-rich) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0437-path-sum-iii) |
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
+| [0684-redundant-connection](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0881-loud-and-rich) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0684-redundant-connection) |
 | [1275-validate-binary-tree-nodes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1275-validate-binary-tree-nodes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
