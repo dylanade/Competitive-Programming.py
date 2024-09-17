@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1762-furthest-building-you-can-reach) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2032-largest-odd-number-in-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2032-largest-odd-number-in-string) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1762-furthest-building-you-can-reach](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1762-furthest-building-you-can-reach) |
 | [1814-jump-game-vi](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1814-jump-game-vi) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Quickselect
