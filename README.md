@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0093-restore-ip-addresses) |
 | [0179-largest-number](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0273-integer-to-english-words) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0494-target-sum) |
 ## Simulation
 |  |
