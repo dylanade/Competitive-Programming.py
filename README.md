@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0322-coin-change) |
+| [0330-patching-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0179-largest-number) |
+| [0330-patching-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
