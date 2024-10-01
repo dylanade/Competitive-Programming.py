@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1095-two-city-scheduling) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Bit Manipulation
 |  |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Data Stream
 |  |
 | ------- |
