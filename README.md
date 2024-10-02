@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Counting
 |  |
 | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1242-matrix-block-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1242-matrix-block-sum) |
 | [1783-ways-to-make-a-fair-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1783-ways-to-make-a-fair-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Memoization
 |  |
