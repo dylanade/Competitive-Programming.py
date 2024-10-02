@@ -17,8 +17,7 @@ class Solution:
                     sgrid[sr+2][sc+2] = 1
 
         def dfs(r, c):
-            if ((r < 0 or c < 0) or (r == SROWS or c == SCOLS) or 
-                (sgrid[r][c] == 1)):
+            if ((r < 0 or c < 0) or (r == SROWS or c == SCOLS) or (sgrid[r][c] == 1)):
                 return 
 
             sgrid[r][c] = 1
