@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0054-spiral-matrix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0063-unique-paths-ii) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0042-trapping-rain-water) |
 | [0983-validate-stack-sequences](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0983-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
