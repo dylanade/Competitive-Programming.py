@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0648-replace-words) |
+| [0735-asteroid-collision](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0735-asteroid-collision) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [0881-loud-and-rich](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0881-loud-and-rich) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0042-trapping-rain-water) |
+| [0735-asteroid-collision](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0983-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0983-validate-stack-sequences) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Topological Sort
