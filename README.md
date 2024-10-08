@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
 | [1762-furthest-building-you-can-reach](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1762-furthest-building-you-can-reach) |
+| [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
 | [1783-ways-to-make-a-fair-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1783-ways-to-make-a-fair-array) |
 | [1814-jump-game-vi](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1814-jump-game-vi) |
 | [1876-map-of-highest-peak](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1876-map-of-highest-peak) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0948-sort-an-array) |
+| [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Data Stream
 |  |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0948-sort-an-array) |
+| [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
 ## Combinatorics
 |  |
 | ------- |
@@ -576,12 +580,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
