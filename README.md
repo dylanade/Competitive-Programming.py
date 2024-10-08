@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0295-find-median-from-data-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1582-design-browser-history](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
