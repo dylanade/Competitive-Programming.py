@@ -6,18 +6,23 @@
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
 
-        dummy = ListNode(0, head)
-        prev = dummy
+        dummy = ListNode()
+        answer = dummy
+
+        import collections
+        counter = collections.defaultdict(int)
 
         while head:
-            if head.next and head.val == head.next.val:
-                while head.next and head.val == head.next.val:
-                    head = head.next
-                prev.next = head.next
-            else:
-                prev = prev.next
+            counter[head.val] += 1
             head = head.next
 
-        return dummy.next
+        for val in counter:
+            if counter[val] <= 1:
+                next_node = ListNode(val, None)
+                dummy.next = next_node
+                dummy = dummy.next
+
+        return answer.next
+                
         
             
