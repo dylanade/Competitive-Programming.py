@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
+| [0491-non-decreasing-subsequences](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0518-coin-change-ii) |
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0491-non-decreasing-subsequences) |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0476-number-complement) |
+| [0491-non-decreasing-subsequences](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0693-binary-number-with-alternating-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0795-k-th-symbol-in-grammar) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0093-restore-ip-addresses) |
+| [0491-non-decreasing-subsequences](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0494-target-sum) |
 ## Simulation
 |  |
