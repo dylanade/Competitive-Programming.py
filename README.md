@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0948-sort-an-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Data Stream
 |  |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0948-sort-an-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Combinatorics
 |  |
 | ------- |
@@ -597,14 +601,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1772-create-sorted-array-through-instructions](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
