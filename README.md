@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0684-redundant-connection) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
 | [0801-is-graph-bipartite](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0801-is-graph-bipartite) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0820-find-eventual-safe-states) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0437-path-sum-iii) |
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
+| [0547-number-of-provinces](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0820-find-eventual-safe-states) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0999-regions-cut-by-slashes) |
