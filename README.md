@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2032-largest-odd-number-in-string) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2556-convert-the-temperature](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2556-convert-the-temperature) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Recursion
 |  |
