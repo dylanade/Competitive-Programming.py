@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [0881-loud-and-rich](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0881-loud-and-rich) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0890-lemonade-change) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0945-snakes-and-ladders) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1095-two-city-scheduling](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1095-two-city-scheduling) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1095-two-city-scheduling](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1095-two-city-scheduling) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0948-sort-an-array) |
 | [1762-furthest-building-you-can-reach](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1762-furthest-building-you-can-reach) |
 | [1814-jump-game-vi](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1814-jump-game-vi) |
