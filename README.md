@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0110-balanced-binary-tree) |
 | [0437-path-sum-iii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0110-balanced-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0437-path-sum-iii) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0110-balanced-binary-tree) |
 | [0437-path-sum-iii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
