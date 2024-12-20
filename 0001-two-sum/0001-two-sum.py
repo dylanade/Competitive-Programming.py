@@ -1,10 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        mapping = {}
-        
-        for i in range(len(nums)):
-            if (int(target - nums[i]) in mapping.keys()):
-                return [mapping.get(target-nums[i]), i]
-            mapping[nums[i]] = i
-            
+        prev = {}
+
+        for i, num in enumerate(nums):
+            if target-num not in prev:
+                prev[num] = i
+            else:
+                return [prev[target-num], i]
+
         return []
