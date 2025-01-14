@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0967-minimum-falling-path-sum) |
+| [0978-valid-mountain-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0978-valid-mountain-array) |
 | [0983-validate-stack-sequences](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0983-validate-stack-sequences) |
 | [0999-regions-cut-by-slashes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0999-regions-cut-by-slashes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1034-subarrays-with-k-different-integers) |
