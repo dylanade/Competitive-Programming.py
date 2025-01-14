@@ -1,10 +1,9 @@
 class Solution:
     def validMountainArray(self, arr: List[int]) -> bool:
+        n = len(arr)
         peak = max(arr)
         peak_pos = arr.index(peak)
-        set_arr = set(arr)
-        n = len(arr)
-
+        
         i, j = peak_pos, peak_pos
 
         if peak_pos == 0 or peak_pos == n-1:
@@ -21,4 +20,3 @@ class Solution:
             j += 1
 
         return True
-        print(peak_pos)
