@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0208-implement-trie-prefix-tree) |
 | [0273-integer-to-english-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0273-integer-to-english-words) |
 | [0318-maximum-product-of-word-lengths](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0318-maximum-product-of-word-lengths) |
+| [0344-reverse-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0389-find-the-difference) |
 | [0648-replace-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0686-repeated-string-match) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0295-find-median-from-data-stream) |
+| [0344-reverse-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2699-count-the-number-of-fair-pairs) |
