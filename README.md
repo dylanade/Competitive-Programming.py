@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0735-asteroid-collision) |
 | [0749-shortest-completing-word](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0749-shortest-completing-word) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
+| [0822-unique-morse-code-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0822-unique-morse-code-words) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [0881-loud-and-rich](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0881-loud-and-rich) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0749-shortest-completing-word) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
+| [0822-unique-morse-code-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0822-unique-morse-code-words) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0999-regions-cut-by-slashes) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0749-shortest-completing-word) |
 | [0753-open-the-lock](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
+| [0822-unique-morse-code-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0822-unique-morse-code-words) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1044-find-common-characters) |
