@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0983-validate-stack-sequences) |
 | [0999-regions-cut-by-slashes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0999-regions-cut-by-slashes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1034-subarrays-with-k-different-integers) |
+| [1044-find-common-characters](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1044-find-common-characters) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1095-two-city-scheduling](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1095-two-city-scheduling) |
 | [1117-as-far-from-land-as-possible](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1117-as-far-from-land-as-possible) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1034-subarrays-with-k-different-integers) |
+| [1044-find-common-characters](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1044-find-common-characters) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1207-delete-nodes-and-return-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1044-find-common-characters](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1250-longest-common-subsequence) |
 | [1512-design-underground-system](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1512-design-underground-system) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
