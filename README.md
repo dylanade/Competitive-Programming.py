@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1512-design-underground-system](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1512-design-underground-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2413-smallest-number-in-infinite-set) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2455-node-with-highest-edge-score](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2455-node-with-highest-edge-score) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1034-subarrays-with-k-different-integers) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Design
 |  |
 | ------- |
