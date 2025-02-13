@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1207-delete-nodes-and-return-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1512-design-underground-system](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1512-design-underground-system) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2413-smallest-number-in-infinite-set) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2455-node-with-highest-edge-score](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2455-node-with-highest-edge-score) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1250-longest-common-subsequence) |
 | [1512-design-underground-system](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1512-design-underground-system) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0829-subdomain-visit-count) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1034-subarrays-with-k-different-integers) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Design
 |  |
