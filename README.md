@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0735-asteroid-collision) |
 | [0749-shortest-completing-word](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0749-shortest-completing-word) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/1013-fibonacci-number) |
