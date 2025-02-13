@@ -3,10 +3,10 @@ class Solution:
         count = collections.Counter(nums)
         remove = 0
 
-        for num in count:
+        for num in nums:
             while count[num] > 1:
                 count[num] -= 2
                 remove += 1
 
         print(count)
-        return [remove, sum(count.values())]
+        return [remove, len(nums) - (remove * 2)]
