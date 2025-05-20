@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dylanade/competitive-programming.py/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0062-unique-paths) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dylanade/competitive-programming.py/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0024-swap-nodes-in-pairs) |
 | [0273-integer-to-english-words](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0273-integer-to-english-words) |
 | [0795-k-th-symbol-in-grammar](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0795-k-th-symbol-in-grammar) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dylanade/competitive-programming.py/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dylan-govender/Competitive-Programming.py/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
